@@ -2,7 +2,7 @@
 
 Uses the 42keebs.io Frood rev7 (RP2040 based pro micro pinout MCU).
 
-Also uses EE_HANDS, 500hz usb polling rate, 3ms debounce time and eager per-key debouncing.
+Also uses EE_HANDS, 500hz usb polling rate, and eager per-key debouncing.
 
 Setup with:
 
