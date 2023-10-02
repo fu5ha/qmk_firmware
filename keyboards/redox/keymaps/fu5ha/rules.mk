@@ -1,0 +1,6 @@
+CONVERT_TO=promicro_rp2040
+
+MOUSEKEY_ENABLE = no
+RGBLIGHT_ENABLE = no
+
+DEBOUNCE_TYPE = sym_eager_pk
