@@ -3,4 +3,4 @@ CONVERT_TO=rp2040_ce
 MOUSEKEY_ENABLE = no
 RGBLIGHT_ENABLE = no
 
-DEBOUNCE_TYPE = sym_eager_pk
+DEBOUNCE_TYPE = asym_eager_defer_pk
